@@ -11,13 +11,14 @@
 ### [Lab 1 Deliverables](./Deliverables/Lab%201/SC3040-Lab-1.pdf)
 
 > 📝 Compiled [Minutes 1](./Deliverables/Lab%201/Meeting-Minutes-1.pdf)
+> 📝 Compiled [Minutes 1.1](https://docs.google.com/document/d/1VGEybvN7Ca27xqw2t2QSijuZs7wsPDvi-K0J5UcMo3U/edit?usp=sharing)
 
 _During lab session_
 
 - [x] Team registration
 - [x] Meeting minutes of in-class discussion
       _By following lab session_
-- [ ] Admin: Team information
+- [x] Admin: Team information
 - [ ] Admin: Meeting details
   - [ ] Meeting minutes
   - [ ] Include backlog snapshot

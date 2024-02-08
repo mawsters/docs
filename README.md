@@ -12,17 +12,18 @@
 ### [Lab 1 Deliverables](./Deliverables/Lab%201/SC3040-Lab-1.pdf)
 
 > 📝 Compiled [Minutes 1](./Deliverables/Lab%201/Meeting-Minutes-1.pdf)<br/>
-> 📝 Compiled [Minutes 1.1](https://docs.google.com/document/d/1VGEybvN7Ca27xqw2t2QSijuZs7wsPDvi-K0J5UcMo3U/edit?usp=sharing)<br/>
+> 📝 Compiled [Minutes 1.1](./Deliverables/Lab%201/Meeting-Minutes-1.1.pdf)<br/>
 
 _During lab session_
+
 - [x] Team registration
 - [x] Meeting minutes of in-class discussion
       _By following lab session_
 - [x] [Wiki](https://github.com/mawsters/docs/wiki): Team information
   - [x] Include role designations
-- [ ] Admin: Meeting details
-  - [ ] Meeting minutes
-  - [ ] Include backlog snapshot
+- [x] Admin: Meeting details
+  - [x] Meeting minutes
+  - [x] Include backlog snapshot
 - [ ] Docs: Project proposal
   - [ ] Docs: Draft use-case model
   </details>

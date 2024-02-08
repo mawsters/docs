@@ -31,7 +31,7 @@ jobs:
           # this will also include README.md
           echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
-      - uses: docker://pandoc/core
+      - uses: docker://pandoc/latex:2.9
         with:
           args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
 

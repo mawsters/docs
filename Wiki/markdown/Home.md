@@ -7,6 +7,8 @@ Group Name: **Mawsters**<br/>
 > - [Documentation](https://github.com/mawsters/docs/blob/main/README.md)
 > - [Kanban](https://github.com/orgs/mawsters/projects/3)
 > - [Minutes](https://github.com/mawsters/docs/wiki/Meeting-Minutes)
+> - [Submission](https://github.com/softwarelab3/3002-TEL1-Mawsters) (_🚨 Collaborators only_)
+
 
 <br/>
 

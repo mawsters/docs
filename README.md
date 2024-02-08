@@ -25,7 +25,7 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [ ] Docs: Project proposal
-  - [ ] Docs: Draft use-case model
+  - [x] Docs: Draft [use-case model](./Deliverables/Lab%201/Use-Case-Diagram-0.0.1.pdf) & [descriptions](./Deliverables/Lab%201/Use-Case-Descriptions-0.0.1.pdf)
   </details>
 
 ---

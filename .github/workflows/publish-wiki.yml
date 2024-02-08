@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
     paths:
-      - wiki/**
+      - wiki/markdown/**
       - .github/workflows/publish-wiki.yml
 concurrency:
   group: publish-wiki
@@ -16,26 +16,3 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: Andrew-Chen-Wang/github-wiki-action@v4
-
-  convert_via_pandoc:
-    runs-on: ubuntu-22.04
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: create file list
-        id: files_list
-        run: |
-          echo "Lorem ipsum" > lorem_1.md  # create two example files
-          echo "dolor sit amet" > lorem_2.md
-          mkdir output  # create output dir
-          # this will also include README.md
-          echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
-
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --pdf-engine=xelatex --output=output/result.pdf ${{ steps.files_list.outputs.files }}
-
-      - uses: actions/upload-artifact@v3
-        with:
-          name: output
-          path: output

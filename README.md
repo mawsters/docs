@@ -9,7 +9,7 @@
 <details open>
 <summary>📂 Project Deliverables</summary>
 
-### [Lab 1 Deliverables](./Deliverables/Lab%201/SC3040-Lab-1.pdf)
+### [Lab 1 Deliverables](./Deliverables/Lab%201/Deliverables.pdf)
 
 > 📝 Compiled [Minutes 1](./Deliverables/Lab%201/Meeting-Minutes-1.pdf)<br/>
 > 📝 Compiled [Minutes 1.1](./Deliverables/Lab%201/Meeting-Minutes-1.1.pdf)<br/>
@@ -25,8 +25,30 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [x] Docs: [Project proposal](./Deliverables/Lab%201/Project-Proposal.pdf)
+
   - [x] Docs: Draft [use-case model](./Deliverables/Lab%201/Use-Case-Diagram-0.0.1.pdf) & [descriptions](./Deliverables/Lab%201/Use-Case-Descriptions-0.0.1.pdf)
+
+  ### [Lab 2 Deliverables](./Deliverables/Lab%202/Deliverables.pdf)
+
+> 📝 Compiled [Minutes 2](./Deliverables/Lab%201/Meeting-Minutes-1.pdf)<br/>
+
+_During lab session_
+
+- [x] Meeting minutes of in-class discussion
+      _By following lab session_
+- [ ] System requirement specification
+- [ ] Wiki: Quality Plan
+- [ ] Admin: Meeting details
+
+  - [ ] Meeting minutes
+  - [ ] Include backlog snapshot
+
   </details>
+
+2. Wiki: System requirement specification
+3. Wiki: Quality Plan
+4. Wiki: Backlog
+5. Wiki: Meeting minutes
 
 ---
 

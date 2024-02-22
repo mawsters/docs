@@ -37,12 +37,12 @@ _During lab session_
 
 - [x] Meeting minutes of in-class discussion
       _By following lab session_
-- [ ] System requirement specification
-- [ ] Wiki: Quality Plan
-- [ ] Admin: Meeting details
+- [x] System requirement specification
+- [x] Wiki: Quality Plan
+- [x] Admin: Meeting details
 
-  - [ ] Meeting minutes
-  - [ ] Include backlog snapshot
+  - [x] Meeting minutes
+  - [x] Include backlog snapshot
 
   </details>
 

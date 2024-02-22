@@ -31,17 +31,18 @@ _During lab session_
   ### [Lab 2 Deliverables](./Deliverables/Lab%202/Deliverables.pdf)
 
 > 📝 Compiled [Minutes 2](./Deliverables/Lab%201/Meeting-Minutes-1.pdf)<br/>
+> 📝 Compiled [Minutes 2.1](./Deliverables/Lab%202/MM%202.1.pdf)<br/>
 
 _During lab session_
 
 - [x] Meeting minutes of in-class discussion
       _By following lab session_
-- [ ] System requirement specification
-- [ ] Wiki: Quality Plan
-- [ ] Admin: Meeting details
+- [x] System requirement specification
+- [x] Wiki: Quality Plan
+- [x] Admin: Meeting details
 
-  - [ ] Meeting minutes
-  - [ ] Include backlog snapshot
+  - [x] Meeting minutes
+  - [x] Include backlog snapshot
 
   </details>
 

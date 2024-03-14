@@ -1,4 +1,4 @@
-### fvffdSC3040 Advanced Software Engineering Project Documentation
+### fvfdfdSC3040 Advanced Software Engineering Project Documentation
 
 > - [Wiki](https://github.com/mawsters/docs/wiki)
 > - [Kanban](https://github.com/orgs/mawsters/projects/3)

@@ -46,8 +46,8 @@ _During lab session_
 
   </details>
 
-2. Wiki: System requirement specification
-3. Wiki: Quality Plan
+2. Wiki: [System requirement specification](./Deliverables/Lab%202/SRS.pdf)
+3. Wiki: [Quality Plan](./Deliverables/Lab%202/CZ3002_Quality_Plan.docx.pdf)
 4. Wiki: Backlog
 5. Wiki: Meeting minutes
 

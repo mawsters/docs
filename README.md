@@ -51,7 +51,7 @@ _During lab session_
 
 ### [Lab 3 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
 
-> 📝 Compiled [Minutes 3](./Deliverables/Lab%203/Meeting-Minutes-1.pdf)<br/>
+> 📝 Compiled [Minutes 3](./Deliverables/Lab%203/Meeting-Minutes-3.pdf)<br/>
 
 _During lab session_
 

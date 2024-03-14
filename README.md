@@ -57,10 +57,7 @@ _During lab session_
 
 - [x] Meeting minutes of in-class discussion
       _By following lab session_
-- [x] System requirement specification
 - [x] Wiki
-  - [x] System requirement specification
-  - [x] Quality Plan
   - [x] Meeting minutes
 - [x] Admin: Meeting details
   - [x] Meeting minutes

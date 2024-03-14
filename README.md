@@ -28,7 +28,7 @@ _During lab session_
 
   - [x] Docs: Draft [use-case model](./Deliverables/Lab%201/Use-Case-Diagram-0.0.1.pdf) & [descriptions](./Deliverables/Lab%201/Use-Case-Descriptions-0.0.1.pdf)
 
-  ### [Lab 2 Deliverables](./Deliverables/Lab%202/Deliverables.pdf)
+### [Lab 2 Deliverables](./Deliverables/Lab%202/Deliverables.pdf)
 
 > 📝 Compiled [Minutes 2](./Deliverables/Lab%201/Meeting-Minutes-1.pdf)<br/>
 > 📝 Compiled [Minutes 2.1](./Deliverables/Lab%202/MM%202.1.pdf)<br/>
@@ -38,18 +38,38 @@ _During lab session_
 - [x] Meeting minutes of in-class discussion
       _By following lab session_
 - [x] System requirement specification
-- [x] Wiki: Quality Plan
+- [x] [Wiki](https://github.com/mawsters/docs/wiki)
+  - [x] System requirement specification
+  - [x] Quality Plan
+  - [x] Meeting minutes
 - [x] Admin: Meeting details
-
   - [x] Meeting minutes
   - [x] Include backlog snapshot
+- [x] Docs:
+  - [x] [System requirement specification](./Deliverables/Lab%202/SRS.pdf)
+  - [x] [Quality Plan](./Deliverables/Lab%202/CZ3002_Quality_Plan.docx.pdf)
 
-  </details>
+### [Lab 3 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
 
-2. Wiki: [System requirement specification](./Deliverables/Lab%202/SRS.pdf)
-3. Wiki: [Quality Plan](./Deliverables/Lab%202/CZ3002_Quality_Plan.docx.pdf)
-4. Wiki: Backlog
-5. Wiki: Meeting minutes
+> 📝 Compiled [Minutes 3](./Deliverables/Lab%203/Meeting-Minutes-1.pdf)<br/>
+
+_During lab session_
+
+- [x] Meeting minutes of in-class discussion
+      _By following lab session_
+- [x] System requirement specification
+- [x] Wiki
+  - [x] System requirement specification
+  - [x] Quality Plan
+  - [x] Meeting minutes
+- [x] Admin: Meeting details
+  - [x] Meeting minutes
+  - [x] Include backlog snapshot
+- [x] Docs:
+  - [x] [Demo Slides](./Deliverables/Lab%203/Demo_Slides.pdf)
+  - [x] [Project Plan](./Deliverables/Lab%203/Project%20Plan.pdf)
+  - [x] [Risk Management Plan](./Deliverables/Lab%203/Risk%20Management%20Plan.pdf)
+
 
 ---
 

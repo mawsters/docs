@@ -82,8 +82,8 @@ _During lab session_
   - [x] Include backlog snapshot
 - [x] Docs:
   - [x] [Change Management Plan](./Deliverables/Lab%203/BookCatalogue_Change_Management_Plan.docx.pdf)
-  - [x] [Software Configuration Management Plan](./Deliverables/Lab%203/Software Configuration Management Plan.docx.pdf)
-  - [x] [Release Plan](./Deliverables/Lab%203/Shelvd Release Plan .pdf)
+  - [x] [Software Configuration Management Plan](./Deliverables/Lab%203/Software%20Configuration%20Management%20Plan.docx.pdf)
+  - [x] [Release Plan](./Deliverables/Lab%203/Shelvd%20Release%20Plan%20.pdf)
      
 ---
 

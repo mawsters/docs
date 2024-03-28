@@ -67,7 +67,24 @@ _During lab session_
   - [x] [Project Plan](./Deliverables/Lab%203/Project%20Plan.pdf)
   - [x] [Risk Management Plan](./Deliverables/Lab%203/Risk%20Management%20Plan.pdf)
 
+### [Lab 4 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
 
+> 📝 Compiled [Minutes 4](./Deliverables/Lab%203/Meeting-Minutes-4.pdf)<br/>
+
+_During lab session_
+
+- [x] Meeting minutes of in-class discussion
+      _By following lab session_
+- [x] Wiki
+  - [x] Meeting minutes
+- [x] Admin: Meeting details
+  - [x] Meeting minutes
+  - [x] Include backlog snapshot
+- [x] Docs:
+  - [x] [Change Management Plan](./Deliverables/Lab%203/BookCatalogue_Change_Management_Plan.docx.pdf)
+  - [x] [Software Configuration Management Plan](./Deliverables/Lab%203/Software Configuration Management Plan.docx.pdf)
+  - [x] [Release Plan](./Deliverables/Lab%203/Shelvd Release Plan .pdf)
+     
 ---
 
 #### Contributors ✨

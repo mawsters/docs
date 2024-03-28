@@ -69,7 +69,7 @@ _During lab session_
 
 ### [Lab 4 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
 
-> 📝 Compiled [Minutes 4](./Deliverables/Lab%203/Meeting-Minutes-4.pdf)<br/>
+> 📝 Compiled [Minutes 4](./Deliverables/Lab%204/Meeting-Minutes-4.pdf)<br/>
 
 _During lab session_
 
@@ -81,9 +81,9 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [x] Docs:
-  - [x] [Change Management Plan](./Deliverables/Lab%203/BookCatalogue_Change_Management_Plan.docx.pdf)
-  - [x] [Software Configuration Management Plan](./Deliverables/Lab%203/Software%20Configuration%20Management%20Plan.docx.pdf)
-  - [x] [Release Plan](./Deliverables/Lab%203/Shelvd%20Release%20Plan%20.pdf)
+  - [x] [Change Management Plan](./Deliverables/Lab%204/BookCatalogue_Change_Management_Plan.docx.pdf)
+  - [x] [Software Configuration Management Plan](./Deliverables/Lab%204/Software%20Configuration%20Management%20Plan.docx.pdf)
+  - [x] [Release Plan](./Deliverables/Lab%204/Shelvd%20Release%20Plan%20.pdf)
      
 ---
 

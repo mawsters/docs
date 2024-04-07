@@ -84,6 +84,23 @@ _During lab session_
   - [x] [Change Management Plan](./Deliverables/Lab%204/BookCatalogue_Change_Management_Plan.docx.pdf)
   - [x] [Software Configuration Management Plan](./Deliverables/Lab%204/Software%20Configuration%20Management%20Plan.docx.pdf)
   - [x] [Release Plan](./Deliverables/Lab%204/Shelvd%20Release%20Plan%20.pdf)
+
+### [Lab 5 Deliverables](./Deliverables/Lab%205/Deliverables.pdf)
+
+> 📝 Compiled [Minutes 5](./Deliverables/Lab%205/Meeting-Minutes-5.pdf)<br/>
+
+_During lab session_
+
+- [x] Meeting minutes of in-class discussion
+      _By following lab session_
+- [x] Wiki
+  - [x] Meeting minutes
+- [x] Admin: Meeting details
+  - [x] Meeting minutes
+  - [x] Include backlog snapshot
+- [x] Docs:
+  - [x] [Test Plan](./Deliverables/Lab%204/BookCatalogue_Change_Management_Plan.docx.pdf)
+  - [x] [Test Cases and Test Coverage Report](./Deliverables/Lab%204/Software%20Configuration%20Management%20Plan.docx.pdf)
      
 ---
 

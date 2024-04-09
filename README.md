@@ -101,6 +101,8 @@ _During lab session_
   - [x] [Test Plan](./Deliverables/Lab%205/Test-Plan-v1.4.pdf)
   - [x] [Test Cases and Test Coverage Report](./Deliverables/Lab%205/Test-Cases-and-Requirements-Test-Coverage-Report-v1.0.pdf)
 
+</details>
+
 ---
 
 #### Contributors ✨

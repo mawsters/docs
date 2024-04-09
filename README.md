@@ -6,7 +6,7 @@
 
 <br/>
 
-<details open>
+<details>
 <summary>📂 Project Deliverables</summary>
 
 ### [Lab 1 Deliverables](./Deliverables/Lab%201/Deliverables.pdf)
@@ -24,8 +24,7 @@ _During lab session_
 - [x] Admin: Meeting details
   - [x] Meeting minutes
   - [x] Include backlog snapshot
-- [x] Docs: [Project proposal](./Deliverables/Lab%201/Project-Proposal.pdf)
-
+- [x] Docs: [Project proposal](./Deliverables/Lab%201/Project-Proposal-v1.1.pdf)
   - [x] Docs: Draft [use-case model](./Deliverables/Lab%201/Use-Case-Diagram-0.0.1.pdf) & [descriptions](./Deliverables/Lab%201/Use-Case-Descriptions-0.0.1.pdf)
 
 ### [Lab 2 Deliverables](./Deliverables/Lab%202/Deliverables.pdf)
@@ -46,8 +45,8 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [x] Docs:
-  - [x] [System requirement specification](./Deliverables/Lab%202/SRS.pdf)
-  - [x] [Quality Plan](./Deliverables/Lab%202/CZ3002_Quality_Plan.docx.pdf)
+  - [x] [System Requirement Specification](./Deliverables/Lab%202/SRS-0.0.2.pdf)
+  - [x] [Quality Plan](./Deliverables/Lab%202/Quality-Plan-v0.2.pdf)
 
 ### [Lab 3 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
 
@@ -63,9 +62,8 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [x] Docs:
-  - [x] [Demo Slides](./Deliverables/Lab%203/Demo_Slides.pdf)
-  - [x] [Project Plan](./Deliverables/Lab%203/Project%20Plan.pdf)
-  - [x] [Risk Management Plan](./Deliverables/Lab%203/Risk%20Management%20Plan.pdf)
+  - [x] [Project Plan](./Deliverables/Lab%203/Project-Plan-v2.1.pdf)
+  - [x] [Risk Management Plan](./Deliverables/Lab%203/Risk-Management-Plan-v2.1.pdf)
 
 ### [Lab 4 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
 
@@ -81,9 +79,9 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [x] Docs:
-  - [x] [Change Management Plan](./Deliverables/Lab%204/BookCatalogue_Change_Management_Plan.docx.pdf)
-  - [x] [Software Configuration Management Plan](./Deliverables/Lab%204/Software%20Configuration%20Management%20Plan.docx.pdf)
-  - [x] [Release Plan](./Deliverables/Lab%204/Shelvd%20Release%20Plan%20.pdf)
+  - [x] [Change Management Plan](./Deliverables/Lab%204/Change-Management-Plan-v2.1.pdf)
+  - [x] [Software Configuration Management Plan](./Deliverables/Lab%204/Configuration-Management-Plan-v1.2.pdf)
+  - [x] [Release Plan](./Deliverables/Lab%204/Release-Plan-v1.3.pdf)
 
 ### [Lab 5 Deliverables](./Deliverables/Lab%205/Deliverables.pdf)
 
@@ -99,11 +97,11 @@ _During lab session_
   - [x] Meeting minutes
   - [x] Include backlog snapshot
 - [x] Docs:
-  - [x] [Test Plan](./Deliverables/Lab%204/BookCatalogue_Change_Management_Plan.docx.pdf)
-  - [x] [Test Cases and Test Coverage Report](./Deliverables/Lab%204/Software%20Configuration%20Management%20Plan.docx.pdf)
-     
----
+  - [x] [Product Presentation](./Deliverables/Lab%205/Product-Presentation.pdf)
+  - [x] [Test Plan](./Deliverables/Lab%205/Test-Plan-v1.4.pdf)
+  - [x] [Test Cases and Test Coverage Report](./Deliverables/Lab%205/Test-Cases-and-Requirements-Test-Coverage-Report-v1.0.pdf)
 
+---
 
 #### Contributors ✨
 

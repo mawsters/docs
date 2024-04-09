@@ -1,8 +1,11 @@
-### SC3040 Advanced Software Engineering Project Documentation
+### SC3040 Advanced Software Engineering Project — _📚 shelvd_
 
-> - [Wiki](https://github.com/mawsters/docs/wiki)
-> - [Kanban](https://github.com/orgs/mawsters/projects/3)
-> - [Minutes](https://github.com/mawsters/docs/wiki/Meeting-Minutes)
+**📚 shelvd** strives to enhance book discovery and foster a vibrant reader community through personalized recommendations, advanced search capabilities, and interactive forums, including virtual book clubs and reader reviews. This web app is the ultimate destination for book lovers seeking to explore new titles and connect with fellow enthusiasts in a dynamic, user-friendly environment.
+
+> The social network for book lovers.<br/>
+>
+> - [Website](https://shelvd.vercel.app)
+> - [API](https://shelvd-api.onrender.com/api)
 
 <br/>
 

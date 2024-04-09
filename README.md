@@ -85,6 +85,7 @@ _During lab session_
   - [x] [Change Management Plan](./Deliverables/Lab%204/Change-Management-Plan-v2.1.pdf)
   - [x] [Software Configuration Management Plan](./Deliverables/Lab%204/Configuration-Management-Plan-v1.2.pdf)
   - [x] [Release Plan](./Deliverables/Lab%204/Release-Plan-v1.3.pdf)
+  - [x] [Design Report on Software Maintainability](./Deliverables/Lab%204/Design-Report-on-Software-Maintainability-v1.0.pdf)
 
 ### [Lab 5 Deliverables](./Deliverables/Lab%205/Deliverables.pdf)
 

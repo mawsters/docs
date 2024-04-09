@@ -68,7 +68,7 @@ _During lab session_
   - [x] [Project Plan](./Deliverables/Lab%203/Project-Plan-v2.1.pdf)
   - [x] [Risk Management Plan](./Deliverables/Lab%203/Risk-Management-Plan-v2.1.pdf)
 
-### [Lab 4 Deliverables](./Deliverables/Lab%203/Deliverables.pdf)
+### [Lab 4 Deliverables](./Deliverables/Lab%204/Deliverables.pdf)
 
 > 📝 Compiled [Minutes 4](./Deliverables/Lab%204/Meeting-Minutes-4.pdf)<br/>
 
